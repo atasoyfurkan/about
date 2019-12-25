@@ -34,6 +34,9 @@ h6,
     padding: 7rem 0;
   }
 }
+.site-section .container .row div img {
+  border-radius: 10px;
+}
 
 .filters a {
   color: #000;
@@ -76,6 +79,7 @@ h6,
   display: block;
   position: relative;
   overflow: hidden;
+  border-radius: 12px !important;
 }
 
 .item .item-wrap:after {
@@ -179,6 +183,7 @@ h6,
 .readmore {
   display: inline-block;
   border: 1px solid #000;
+  border-radius: 5px;
   padding: 10px 15px;
   font-size: 12px;
   text-transform: uppercase;
@@ -229,6 +234,7 @@ h6,
 
 .testimonial-carousel {
   background: #eceff2;
+  border-radius: 15px;
 }
 
 .sticky-content {
