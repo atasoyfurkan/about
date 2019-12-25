@@ -146,7 +146,6 @@ h6,
 
 .testimonial-wrap {
   padding: 50px 50px 80px 50px;
-  background: #eceff2;
 }
 
 .testimonial-wrap .testimonial {
@@ -226,6 +225,10 @@ h6,
 
 .testimonial-carousel .owl-dots .owl-dot.active > span {
   background: #0d1e2d;
+}
+
+.testimonial-carousel {
+  background: #eceff2;
 }
 
 .sticky-content {
